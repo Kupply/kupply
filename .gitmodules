@@ -1,0 +1,9 @@
+[submodule "kupply-MLOps"]
+	path = kupply-MLOps
+	url = https://github.com/DevKor-github/kupply-MLOps
+[submodule "kupply-back"]
+	path = kupply-back
+	url = https://github.com/DevKor-github/kupply-back
+[submodule "kupply-front"]
+	path = kupply-front
+	url = https://github.com/DevKor-github/kupply-front
