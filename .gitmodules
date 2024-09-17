@@ -7,3 +7,6 @@
 [submodule "kupply-front"]
 	path = kupply-front
 	url = https://github.com/DevKor-github/kupply-front
+[submodule "kupply-infra"]
+	path = kupply-infra
+	url = https://github.com/Kupply/kupply-infra
